@@ -1,0 +1,24 @@
+---
+name: Repo Sync Request
+about: Use this issue to propose a repository for inclusion to the Git-Sync project
+title: Repo Sync Request
+labels: ''
+assignees: ''
+
+---
+
+## Project Repo URL
+<!-- Insert repository URL -->
+
+## Title and Description
+<!-- Title -->
+<!--- Describe the project -->
+
+## Repo maintainers and/or contact email address
+<!--- Responsible contact if any questions/issues arise -->
+
+## Please explain if it's not immediately evident that the repo is ethereum-related
+<!--- Repo should be relevant to the ethereum network and community -->
+ 
+## Any particularly relevant or time-sensitive details 
+<!--- For example, is this repository about to be removed? -->
